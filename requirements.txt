@@ -1,2 +1,2 @@
-pandas
-matplotlib
+# Este projeto nao usa bibliotecas externas.
+# Basta ter o Python instalado para rodar: python main.py
