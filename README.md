@@ -59,12 +59,7 @@ classDiagram
     Plano "1" <-- "*" Aluno
 ```
 
-## 6. Como Executar
-1. Instale o Python (python.org).
-2. Baixe este repositório (**Code → Download ZIP**) e extraia.
-3. Abra o terminal dentro da pasta e rode:
 
-```
 python main.py
 ```
 
