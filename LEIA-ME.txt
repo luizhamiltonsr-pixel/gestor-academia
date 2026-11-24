@@ -1,0 +1,6 @@
+Coloque aqui os prints do projeto funcionando:
+- menu.png     -> o menu do programa no terminal
+- cadastro.png -> cadastro de um aluno
+- alertas.png  -> opção 5 (alertas de vencimento)
+- csv.png      -> o arquivo dados/alunos.csv aberto
+- commits.png  -> aba Insights > Contributors do GitHub
